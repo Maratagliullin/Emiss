@@ -7,6 +7,7 @@
 **Результат:**     
 Разработано web-приложение для автоматизации сбора данных показателей ЦУР в формате SDMX XML на языке Python с хранением данных в PostgreSQL и выгрузкой в единый файл формата (Excel) для визуализации в Yandex Datalens. Для удобства использования приложение обернуто в Docker.   
 
+Пояснение к интерфейсу <a href="https://github.com/Maratagliullin/Emiss/blob/master/inteface.pdf" target="_blank">PDF.</a>
 
 ## Стек
 Бекенд/Фронтенд - Django.  
