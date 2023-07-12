@@ -47,8 +47,6 @@ Docker version 20.10.7, build f0df350
 
 ### Запуск проекта:
 
-Расположение проекта на github: https://github.com/tatiana834680/emiss.git  
-
 Необходимо перейти в директорию проекта и запустить сборку командой:
 
 ```docker-compose build```  
